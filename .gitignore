@@ -1,0 +1,10 @@
+
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+target/classes/mule-app.properties
+target/classes/log4j2.xml
+target/classes/apdev-advanced-maven.xml
+target/classes/mule-deploy.properties
+target/mvn-eclipse-cache.properties
+target/test-classes/log4j2-test.xml
